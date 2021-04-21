@@ -27,3 +27,4 @@ const losPiojos = new Banda (["Juan", "Luis"], [verdePaisaje])
 
 console.log (losPiojos)
 console.log (verdePaisaje)
+console.log ("aguante todo")
