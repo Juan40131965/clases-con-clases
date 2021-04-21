@@ -26,3 +26,4 @@ const verdePaisaje = new Album("Paisaje", ["Jiji", "vamos river plate", "onda on
 const losPiojos = new Banda (["Juan", "Luis"], [verdePaisaje])
 
 console.log (losPiojos)
+console.log (verdePaisaje)
